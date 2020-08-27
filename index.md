@@ -1,6 +1,8 @@
+---
+title: marlfoxlegend Home
+---
 
-
-## marlfoxlegend Portfolio
+### Welcome to marlfoxlegend GitHub Pages
 
 I want to share my projects for potential employers to see my progress and as a tool to gain a better
 understanding of programming principles through open source projects.
